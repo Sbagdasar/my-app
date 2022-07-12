@@ -5,6 +5,8 @@ export const User = ()=> {
         <div>
             <h2>User1</h2>
             <h2>User2 commit new branch</h2>
+            <h2>User2 commit new branch</h2>
+            <h2>User2 commit new branch</h2>
         </div>
     )
 }
